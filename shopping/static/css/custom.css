@@ -1,0 +1,101 @@
+.nav-item{
+    letter-spacing: 0.2rem;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.dropdown-item{
+    letter-spacing: 0.2rem;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+.my_footer{
+    background-color: #f8f9fa;
+    height: 60px;
+}
+.my_footer p{
+    padding-top: 20px;
+    font-size: 14px;
+}
+
+/* category */
+
+.my_row_class{
+    padding-top: 15px;
+}
+.my_row_class 
+.mx_auto{
+    font-size: 12px;
+    color: #000000;
+    
+}
+.my_image{
+    width: 100%;
+    height: auto;
+}
+.my_title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.my_image_padding{
+    padding: 5px;
+
+}
+.my_bottom_margin{
+    margin-bottom: 10px;
+}
+.card-body h4{
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.my_prod_row_class{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.my_prod_row_class 
+.mx_auto{
+    color: black;
+    font-size: 12px;
+    text-decoration: none;
+}
+.my_prod_title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.my_prod_text{
+    padding-right: 20px;
+    
+}
+.my_search_text{
+    padding-top: 20px;
+}
+/* Cart Page */
+.my_custom_table{
+    min-width: 400px;
+    font-size: 14px;
+}
+.my_custom_thead th{
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    background-color: #f8f8fa!important;
+}
+.custom_a{
+    text-decoration: none;
+}
+.custom_icon{
+    text-decoration: none;
+    color: #868e96 !important;
+}
+.my_custom_button{
+    margin-top: 5px;
+}
