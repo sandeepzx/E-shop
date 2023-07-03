@@ -8,19 +8,31 @@
     font-size: 14px;
     text-transform: uppercase;
 }
-
 .body{
-    
     font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+.my_edit{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+main{
+    flex-grow: 1;
 }
 .my_footer{
-    background-color: #f8f9fa;
+    background-color: #f8f8fa!important;
     height: 60px;
+    margin-top: auto;
+    
 }
 .my_footer p{
-    padding-top: 20px;
+    padding-top: 40px;
     font-size: 14px;
+    padding-bottom: 0;
+    color: azure;
 }
+
 
 /* category */
 
